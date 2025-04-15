@@ -1,3 +1,5 @@
+#A JavaFX-based Bus Management System with Scene Builder UI, developed using Java, JavaFX, and OOP principles.
+
 Some Screen Shots of the Project
 
 
