@@ -1,51 +1,72 @@
-# BMS-JAVAFX - Bus Management System
-BMS-JAVAFX is a JavaFX-based Bus Management System that utilizes Scene Builder for a user-friendly interface. Developed with Java and Object-Oriented Programming (OOP) principles, this system provides efficient bus scheduling, account management, and feedback handling.
+## BMS-JAVAFX - Bus Management System
 
-🎯 Key Features
-🚍 Bus creation and management
+BMS-JAVAFX is a JavaFX-based Bus Management System designed to efficiently manage bus schedules, user accounts, and feedback. Built using Java, JavaFX, and Object-Oriented Programming (OOP) principles, this system provides an intuitive and modular approach to managing bus station operations.
 
-📅 View and manage bus schedules
+---
+
+## 🎯 Key Features
+
+🚍 Create and manage buses and schedules
+
+📅 View bus schedules and manage bookings
 
 🧑‍💻 Role-based login (Admin, Station Manager, Passenger)
 
-📝 Feedback submission by passengers
+📝 Collect feedback from passengers
 
-📊 Admin review of passenger feedback
+📊 Admin review of feedback and bus-related data
 
-🔒 User authentication and role-based access
+🔒 User authentication and access control
 
-💡 Project Goals
-Demonstrate object-oriented design for managing bus-related data
+---
 
-Create a scalable platform for bus station operations
+##💡 Project Goals
 
-Implement a clean, interactive UI using JavaFX and Scene Builder
+Showcase OOP design for managing bus-related operations
 
-🧱 System Architecture
-Login Screen: Role-based login for Admin, Station Manager, or Passenger
+Provide a scalable platform for bus station management
 
-Admin Dashboard: Manage bus creation, review feedback, and update schedules
+Use JavaFX and Scene Builder for an interactive and user-friendly interface
 
-Passenger Dashboard: View schedules, book tickets, and provide feedback
+---
 
-Bus Management: Add and manage bus details, schedules, and bus-related operations
+## 🧱 System Architecture Overview
 
-Feedback System: Passengers can submit feedback, which is reviewed by the admin
+User class (base class)
+↳ Admin, StationManager, Passenger (inheritance)
 
-User Roles and Authentication: Role-based access control for different user actions
+Bus class for bus creation and management
 
-🧩 Future Extensions
-Implement a web or mobile version of the system
+Schedule class for handling bus schedules
 
-Add advanced search and filter options for bus schedules
+FeedbackSystem for managing passenger feedback
 
-Integrate notifications for schedule updates and feedback status
+Role-based Access to ensure secure and efficient user management
 
-Connect the system to a database for persistent storage
+---
 
+## 🧩 Possible Extensions
+
+Add a web or mobile frontend for wider accessibility
+
+Implement real-time bus tracking and notifications
+
+Integrate a database for persistent storage of bus and user data
+
+Implement advanced search and filtering options for schedules and bookings
+
+---
+
+## 🚀 Ideal For
+Portfolio projects demonstrating JavaFX and OOP skills
+
+Building a bus station management system prototype
+
+Developing educational software for transportation systems
+
+---
 
 Some Screen Shots of the Project
-
 
 *Main Screen*
 
