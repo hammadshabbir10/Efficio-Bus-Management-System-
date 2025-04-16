@@ -20,7 +20,7 @@ BMS-JAVAFX is a JavaFX-based Bus Management System designed to efficiently manag
 
 ---
 
-##💡 Project Goals
+## 💡 Project Goals
 
 - Showcase OOP design for managing bus-related operations
 - Provide a scalable platform for bus station management
