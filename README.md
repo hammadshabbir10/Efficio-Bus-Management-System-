@@ -22,47 +22,37 @@ BMS-JAVAFX is a JavaFX-based Bus Management System designed to efficiently manag
 
 ##💡 Project Goals
 
-Showcase OOP design for managing bus-related operations
-
-Provide a scalable platform for bus station management
-
-Use JavaFX and Scene Builder for an interactive and user-friendly interface
+- Showcase OOP design for managing bus-related operations
+- Provide a scalable platform for bus station management
+- Use JavaFX and Scene Builder for an interactive and user-friendly interface
 
 ---
 
 ## 🧱 System Architecture Overview
 
-User class (base class)
-↳ Admin, StationManager, Passenger (inheritance)
-
-Bus class for bus creation and management
-
-Schedule class for handling bus schedules
-
-FeedbackSystem for managing passenger feedback
-
-Role-based Access to ensure secure and efficient user management
+- User class (base class)
+- ↳ Admin, StationManager, Passenger (inheritance)
+- Bus class for bus creation and management
+- Schedule class for handling bus schedules
+- FeedbackSystem for managing passenger feedback
+- Role-based Access to ensure secure and efficient user management
 
 ---
 
 ## 🧩 Possible Extensions
 
-Add a web or mobile frontend for wider accessibility
-
-Implement real-time bus tracking and notifications
-
-Integrate a database for persistent storage of bus and user data
-
-Implement advanced search and filtering options for schedules and bookings
+- Add a web or mobile frontend for wider accessibility
+- Implement real-time bus tracking and notifications
+- Integrate a database for persistent storage of bus and user data
+- Implement advanced search and filtering options for schedules and bookings
 
 ---
 
 ## 🚀 Ideal For
-Portfolio projects demonstrating JavaFX and OOP skills
 
-Building a bus station management system prototype
-
-Developing educational software for transportation systems
+- Portfolio projects demonstrating JavaFX and OOP skills
+- Building a bus station management system prototype
+- Developing educational software for transportation systems
 
 ---
 
